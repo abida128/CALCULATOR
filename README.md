@@ -1,11 +1,11 @@
 # CALCULATOR Application
 
 # Practice Task (Calculator)
--This repo is for basic JavaScript Practice 
+- This repo is for basic JavaScript Practice 
 - It has only one main folder
 - This repo is for Calculator
 
-#Task Given
+# Task Given
 - This task is an individual practice work
 
 # What does this app do??
@@ -33,7 +33,8 @@
 - To run this app,  visit link` given below.
 - open index.html in your browser.
 
-#Live link:
+## Live link:
 - https://codepen.io/abida128/pen/zYwvPNm
-#Repo link:
+
+## Repo link:
 - https://github.com/abida128/CALCULATOR
